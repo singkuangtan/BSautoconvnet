@@ -45,6 +45,8 @@ Reconstructured Output
 
 [BSconvnet paper link](https://vixra.org/abs/2305.0166)
 
+[BSautoconvnet paper link](https://vixra.org/abs/2306.0099)
+
 [BSnet GitHub](https://github.com/singkuangtan/BSnet)
 
 [Discrete Markov Random Field Relaxation](https://vixra.org/abs/2112.0151)
